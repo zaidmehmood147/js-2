@@ -38,6 +38,6 @@
 // but in parseint it rounds the number like 22.5 to 23
 // console.log(reult)
 
-// var number = 34;
+// var number = 3420;
 // var numberInString = number.toString()
 // console.log("numberInString",numberInString)
