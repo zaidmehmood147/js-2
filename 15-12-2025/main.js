@@ -41,7 +41,12 @@
 // default  parameter
 
 //  passing data back from them
- function sum(a,b) {
- return  a+b;
- }
- sum(2,3)
+
+//  function sum(a,b) {
+//  return  a+b;
+//  }
+//  console.log(sum(2,3))
+
+// var result= sum(2,3)
+// console.log(result)
+
