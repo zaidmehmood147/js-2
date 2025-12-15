@@ -26,6 +26,15 @@
 // console.log("year=>", date.getFullYear());
 // console.log("date=>", date.getDate());
 
+// var date = new Date();
+// console.log(date.getHours());
+// console.log(date.getMinutes());
+// console.log(date.getSeconds());
+// console.log("time =" ,date.getTime());
+// console.log(date.getFullYear());
+// console.log(date.getDay());
+// console.log(date.getMonth());
+
 // var days = [
 //   "Sunday",
 //   "Monday",
@@ -38,6 +47,10 @@
 // console.log("day=>", days[date.getDay()]);
 
 // asssignemnt(create an array of month and access the current month of that array)
+
+// var months = ["January","February","March","April","May","June","July","August","September","October","November","December"];
+// console.log("Current month =>",months[date.getMonth()])
+
 // console.log("Month", date.getMonth());
 // console.log("Hours", date.getHours());
 // console.log("Minutes", date.getMinutes());
@@ -52,10 +65,11 @@
 // var myDate = new Date(2020,0,35)
 // var myDate = new Date("03/25/2015");
 // var myDate = new Date("jan, 35, 2025") //invalid (why?) go and search
+// This format is incorrect thats why the outcome is invalid date.
 // console.log("myDate", myDate);
 // MM/DD/YYYY               
 
-// var futureDate = new Date(2030, 0, 10);
+// var futureDate = new Date(2025, 11, 16,);
 // console.log("futureDate", futureDate);
 
 // var currentDate = new Date();
@@ -68,7 +82,7 @@
 
 // var newdate = new Date();
 // newdate.setFullYear(2025);
-// newdate.setDate(13);
+// newdate.setDate(15);
 // console.log("newdate", newdate);
 
 //  -- Functions
