@@ -110,7 +110,7 @@
 // var arrowFunction = (x, y) => {
 //   return x * y;
 // };
-
+//rtyreyer
 // console.log(arrowFunction(2, 4));
 // var Lname = "global variable"
 // function test(myName){
