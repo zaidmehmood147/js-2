@@ -74,6 +74,7 @@
 // console.log("wrong age")
 // }
 
+
 //  (dayOfWk ==="Sat" || dayOfWk === "Sun") {
 //  alert("Whoopee!");
 //  }
