@@ -99,3 +99,7 @@
 
 //  ask chatgpt for loop and while looooop and do while
 // first do then while
+
+
+// HOW TO CONNECT HTML AND JS (SCRIPT)
+// chp 43 script
