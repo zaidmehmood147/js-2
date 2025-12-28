@@ -161,3 +161,4 @@
 //   console.log("chal gaya ");
 //   i++;
 // } while (i < 5);
+// console alert 
