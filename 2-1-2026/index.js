@@ -48,3 +48,4 @@ function stable(){
    var img =  document.getElementById("img").className="stable"
    console.log("img=>",img)
 }
+// 
